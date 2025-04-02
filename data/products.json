@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Workout Shirt", "type": "shirt", "size": "M", "price": 25 },
+  { "id": 2, "name": "Gym Shorts", "type": "shorts", "size": "L", "price": 30 }
+]
